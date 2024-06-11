@@ -1,0 +1,2 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\EjemploSingleton\bin\Debug\EjemploSingleton.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\EjemploSingleton\EjemploSingleton\bin\Debug\EjemploSingleton.exe.config

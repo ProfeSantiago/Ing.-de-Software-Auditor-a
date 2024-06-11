@@ -1,0 +1,13 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\PracticaSingleton\bin\Debug\PracticaSingleton.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\bin\Debug\PracticaSingleton.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\bin\Debug\PracticaSingleton.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\bin\Debug\PracticaSingleton.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.Facturacion_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.Articulos_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.Cxc_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.Principal_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronSingleton\PracticaSingleton\PracticaSingleton\obj\Debug\PracticaSingleton.csprojResolveAssemblyReference.cache

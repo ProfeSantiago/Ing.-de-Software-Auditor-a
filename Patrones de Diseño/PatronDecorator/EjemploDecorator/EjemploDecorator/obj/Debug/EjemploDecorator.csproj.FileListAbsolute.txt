@@ -1,0 +1,10 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\EjemploDecorator\bin\Debug\EjemploDecorator.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\bin\Debug\EjemploDecorator.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\obj\Debug\EjemploDecorator.Decorator_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\obj\Debug\EjemploDecorator.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\obj\Debug\EjemploDecorator.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\bin\Debug\EjemploDecorator.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\bin\Debug\EjemploDecorator.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\obj\Debug\EjemploDecorator.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\obj\Debug\EjemploDecorator.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronDecorator\EjemploDecorator\EjemploDecorator\obj\Debug\EjemploDecorator.csprojResolveAssemblyReference.cache

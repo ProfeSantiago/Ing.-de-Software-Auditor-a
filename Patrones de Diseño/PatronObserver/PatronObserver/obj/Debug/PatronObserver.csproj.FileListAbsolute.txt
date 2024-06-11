@@ -1,0 +1,2 @@
+C:\Users\Santiago\Dropbox\DeveLearning\Patrones de Diseño\PatronObserver\PatronObserver\bin\Debug\PatronObserver.exe.config
+D:\OneDrive\DeveLearning\Ingenieria de Software\Patrones de Diseño\PatronObserver\PatronObserver\bin\Debug\PatronObserver.exe.config
